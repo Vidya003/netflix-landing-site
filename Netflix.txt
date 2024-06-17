@@ -1,0 +1,106 @@
+<html>
+    <head>
+        <title>NetFlix Home Page</title>
+        <link rel="stylesheet" href="NetFlix.css">
+    </head>
+    <body>
+     <div class="div1">
+        <div class="map">
+           <div class="ti">
+               <h1 style="color: red; height: 100px;">Netflix</h1>
+           </div>
+                 <div class="button">
+                       <button class="btn">English</button>
+                       <button class="btn1">Sign In</button>
+                 </div>
+        </div>
+
+        <div class="qo">
+           <h1 style="color: white; font-size: 60px; width: 1000px;">Unlimitted Movies,TV shows and more</h1>
+        </div>
+        <div class="sm">
+            <h2 style="color: white;">Watch anywhere.Cancel anytime.</h4>
+        </div>
+        <div class="sm1">
+            <h2 style="color: white;">Ready to watch? Enter your email to create or restart your membership.</h2>
+        </div>
+        <div class="by">
+                <div class="label">
+                     <input type="text" placeholder=" Email Address" class="lab">
+                </div>
+                <div class="get">
+                    <button class="b">Get Started ></button>
+                </div>
+        </div>
+     </div>
+
+    <div class="two">
+        <div class="com">
+            <div class="con">
+                    <div class="enj">
+                          <h1 style="color: white; font-size: 80px; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">Enjoy on your TV</h1>
+                    </div>
+                    <div class="wat">
+                          <h2 style="color: white; font-size: 30px;">Watch on smart TVs, PlayStation, Xbox,<br> Chromecast, Apple TV, Blu-ray players and more.</h2>
+                    </div>
+            </div>
+            <div class="img">
+                <img src="https://123creative.com/tutufiles/image/tv_3.gif" height="260px">
+            </div>
+
+        </div>
+    </div>
+
+   <div class="three">
+         <div class="ye">
+             <div class="i">  
+                   <img src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/mobile-0819.jpg" height="400px">
+            </div>
+            <div class="ft">
+                 <div class="su">
+                    <h2 style="color: white; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">Download your<br> shows to watch<br> offline</h1>
+                 </div>
+                 <div class="tf">
+                    <h3 style="color: white; font-size: 30px;">Save your favourites easily and always have<br> something to watch.</h3>
+                 </div>
+            </div>
+         </div>
+    </div>
+
+
+    <div class="four">
+        <div class="ye">
+            <div class="ftp">
+                <div class="sut">
+                   <h2 style="color: white; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">Watch everywhere</h1>
+                </div>
+                <div class="tf">
+                   <h3 style="color: white; font-size: 30px;">Save your favourites easily and always have<br> something to watch.</h3>
+                </div>
+           </div>
+            <div class="i1">  
+                  <img src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/device-pile-in.png" height="300px" width="480px">
+           </div>
+           
+        </div>
+   </div>
+
+
+   
+   <div class="four">
+    <div class="ye">
+        <div class="i1">  
+            <img src="https://occ-0-4857-2186.1.nflxso.net/dnm/api/v6/19OhWN2dO19C9txTON9tvTFtefw/AAAABVr8nYuAg0xDpXDv0VI9HUoH7r2aGp4TKRCsKNQrMwxzTtr-NlwOHeS8bCI2oeZddmu3nMYr3j9MjYhHyjBASb1FaOGYZNYvPBCL.png?r=54d" height="300px" width="480px">
+     </div>
+        <div class="ftp">
+            <div class="sut">
+               <h2 style="color: white; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">Create Profile For Kids</h1><br>
+            </div>
+           
+       </div>
+       
+       
+    </div>
+</div>
+    </body>
+</html>
